@@ -1,0 +1,19 @@
+{
+  "clients": [
+    {
+      "name": "Alberto",
+      "company": "Codigo Con Juan",
+      "email": "ALBERTO@juan.com",
+      "phone": "102013313",
+      "notes": "F",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Javier",
+      "phone": 138198313,
+      "email": "karen@juan.com",
+      "company": "Codigo Con Juan"
+    }
+  ]
+}
